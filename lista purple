@@ -1,0 +1,50 @@
+EXTM3U8
+#EXTINF:-1 tvg-ID="disney " tvg-name="disney channel hd" group-title="infantil",disney channel sd | TechRuthes.com
+http://api-4.ubuntu-servers.me//live/6z4VEL1M/61X1v4Bs/22323.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="disney hd" group-title="infantil",disney channel hd| TechRuthes.com
+ttp://api-4.ubuntu-servers.me//live/6z4VEL1M/61X1v4Bs/18685.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="disneyfhd" group-title="ifantil",disney ,channel fhd | TechRuthes.com
+http://api-4.ubuntu-servers.me//live/6z4VEL1M/61X1v4Bs/18782.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="disney jr " group-title="infantil",disney,jr sd | TechRuthes.com
+http://api-4.ubuntu-servers.me//live/6z4VEL1M/61X1v4Bs/18684.m3u8
+#EXTINF:-1 tvg-ID="band" tvg-name="disney jr hd" group-title="infantil",disney ,jr hd | TechRuthes.com
+http://api-4.ubuntu-servers.me//live/6z4VEL1M/61X1v4Bs/18509.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="disney jr fhd" group-title="infantil", disney jr fhd | TechRuthes.com
+http://api-4.ubuntu-servers.me//live/6z4VEL1M/61X1v4Bs/18788.m3u8
+#EXTINF:-1 tvg-ID="disey xd" tvg-name="disney xd" group-title="infantil",disney xd | TechRuthes.com
+http://api-4.ubuntu-servers.me//live/6z4VEL1M/61X1v4Bs/22321.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="nick" group-title="infantil",nickelodeon sd | TechRuthes.com
+http://api-4.ubuntu-servers.me//live/6z4VEL1M/61X1v4Bs/18601.m3u8
+#EXTINF:-1 tvg-ID="nick hd" tvg-name="nick HD" group-title="nfantil",nickelodeon hd | TechRuthes.com
+http://api-4.ubuntu-servers.me//live/6z4VEL1M/61X1v4Bs/18600.m3u8
+#EXTINF:-1 tvg-ID="nick fhd" tvg-name="Nick fhd" group-title="infantil",ickelodeon fhd | TechRuthes.com
+http://api-4.ubuntu-servers.me//live/6z4VEL1M/61X1v4Bs/18807.m3u8
+#EXTINF:-1 tvg-ID="nick jr" tvg-name="nick jr" group-title=s"infantil",nick jr sd| TechRuthes.com
+http://api-4.ubuntu-servers.me//live/6z4VEL1M/61X1v4Bs/18603.m3u8
+#EXTINF:-1 tvg-ID="nick jr" tvg-name="nick jr" group-title="infantil",nick jr hd| TechRuthes.com
+http://api-4.ubuntu-servers.me//live/6z4VEL1M/61X1v4Bs/18602.m3u8
+#EXTINF:-1 tvg-ID="nick jr" tvg-name="nick jr" group-title="infantil",nick jr fhd| TechRuthes.com
+http://api-4.ubuntu-servers.me//live/6z4VEL1M/61X1v4Bs/18808.m3u8
+#EXTINF:-1 tvg-ID="discovery kids" tvg-name="discovery kids" group-title="infantil",discovery kids sd | TechRuthes.com
+http://api-4.ubuntu-servers.me//live/6z4VEL1M/61X1v4Bs/22325.m3u8
+#EXTINF:-1 tvg-ID="discovery kids" tvg-name="discovery kids" group-title="infantil",discovery kids sd | TechRuthes.com
+http://api-4.ubuntu-servers.me//live/6z4VEL1M/61X1v4Bs/18696.m3u8
+#EXTINF:-1 tvg-ID="discovery kids" tvg-name="discovery kids" group-title="infantil",discovery kids hd | TechRuthes.com
+http://api-4.ubuntu-servers.me//live/6z4VEL1M/61X1v4Bs/18695.m3u8
+#EXTINF:-1 tvg-ID="discovery kids" tvg-name="discovery kids" group-title="infantil",discovery kids fhd | TechRuthes.com
+http://api-4.ubuntu-servers.me//live/6z4VEL1M/61X1v4Bs/18843.m3u8
+#EXTINF:-1 tvg-ID="cartoon" tvg-name="cartoon network" group-title="infantil",cartoon network sd | TechRuthes.com
+http://api-4.ubuntu-servers.me//live/6z4VEL1M/61X1v4Bs/18712.m3u8
+#EXTINF:-1 tvg-ID="cartoon" tvg-name="cartoon network" group-title="infantil",cartoon network hd | TechRuthes.com
+http://api-4.ubuntu-servers.me//live/6z4VEL1M/61X1v4Bs/18711.m3u8
+#EXTINF:-1 tvg-ID="cartoon" tvg-name="cartoon network" group-title="infantil",cartoon network fhd | TechRuthes.com
+http://api-4.ubuntu-servers.me//live/6z4VEL1M/61X1v4Bs/18849.m3u8
+#EXTINF:-1 tvg-ID="boomerang" tvg-name="boomerang" group-title="infantil",boomerang sd | TechRuthes.com
+http://api-4.ubuntu-servers.me//live/6z4VEL1M/61X1v4Bs/18719.m3u8
+#EXTINF:-1 tvg-ID="boomerang" tvg-name="boomerang" group-title="infantil",boomerang hd | TechRuthes.com
+http://api-4.ubuntu-servers.me//live/6z4VEL1M/61X1v4Bs/18718.m3u8
+#EXTINF:-1 tvg-ID="boomerang" tvg-name="boomerang" group-title="infantil",boomerang fhd | TechRuthes.com
+http://api-4.ubuntu-servers.me//live/6z4VEL1M/61X1v4Bs/18851.m3u8
+
+
+
